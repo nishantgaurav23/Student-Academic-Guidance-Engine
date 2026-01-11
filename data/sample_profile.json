@@ -1,0 +1,38 @@
+{
+  "profiles": [
+    {
+      "id": "student_123",
+      "personal_info": {
+        "name": "John Doe",
+        "major": "Computer Science",
+        "academic_year": "Junior"
+      },
+      "academic_info": {
+        "current_courses": [
+          {
+            "name": "Calculus III",
+            "grade": "B+",
+            "difficulty": "high"
+          },
+          {
+            "name": "Data Structures",
+            "grade": "A",
+            "difficulty": "medium"
+          }
+        ]
+      },
+      "learning_preferences": {
+        "learning_style": {
+          "primary": "visual",
+          "secondary": "kinesthetic",
+          "attention_span": "moderate"
+        },
+        "study_patterns": {
+          "optimal_time": "morning",
+          "session_duration": 45,
+          "break_frequency": 15
+        }
+      }
+    }
+  ]
+}

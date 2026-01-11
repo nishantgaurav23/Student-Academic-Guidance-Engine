@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "id": "event_1",
+      "summary": "Calculus III Exam",
+      "start": {
+        "dateTime": "2025-01-15T09:00:00Z"
+      },
+      "end": {
+        "dateTime": "2025-01-15T11:00:00Z"
+      }
+    },
+    {
+      "id": "event_2",
+      "summary": "Football Practice",
+      "start": {
+        "dateTime": "2025-01-14T18:00:00Z"
+      },
+      "end": {
+        "dateTime": "2025-01-14T20:00:00Z"
+      }
+    },
+    {
+      "id": "event_3",
+      "summary": "Study Group - Data Structures",
+      "start": {
+        "dateTime": "2025-01-13T14:00:00Z"
+      },
+      "end": {
+        "dateTime": "2025-01-13T16:00:00Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "task_1",
+      "title": "Complete Calculus III Problem Set",
+      "due": "2025-01-14T23:59:00Z",
+      "status": "needsAction",
+      "priority": "high"
+    },
+    {
+      "id": "task_2",
+      "title": "Review Data Structures Notes",
+      "due": "2025-01-15T08:00:00Z",
+      "status": "needsAction",
+      "priority": "medium"
+    },
+    {
+      "id": "task_3",
+      "title": "Prepare for Study Group",
+      "due": "2025-01-13T13:00:00Z",
+      "status": "needsAction",
+      "priority": "low"
+    }
+  ]
+}
